@@ -1,0 +1,16 @@
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/bin/Debug/net5.0/SingleResponsibilityPrinciple
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/bin/Debug/net5.0/SingleResponsibilityPrinciple.deps.json
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/bin/Debug/net5.0/SingleResponsibilityPrinciple.runtimeconfig.json
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/bin/Debug/net5.0/SingleResponsibilityPrinciple.runtimeconfig.dev.json
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/bin/Debug/net5.0/SingleResponsibilityPrinciple.dll
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/bin/Debug/net5.0/SingleResponsibilityPrinciple.pdb
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.AssemblyInfo.cs
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.dll
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/refint/SingleResponsibilityPrinciple.dll
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.pdb
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/SingleResponsibilityPrinciple.genruntimeconfig.cache
+/Users/thomas.wang/Deverloper/laughingkids/backend-learning/design-pattern/chapter_1/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple/obj/Debug/net5.0/ref/SingleResponsibilityPrinciple.dll
